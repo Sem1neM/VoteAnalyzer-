@@ -8,7 +8,7 @@ public class DBConnection  {
 
     private final static String dbName = "learn";
     private final static String dbUser = "root";
-    private final static String dbPass = "cnjldflwfnbvbkkbvtnhjdsq";
+    private final static String dbPass = "password";
     private static StringBuilder insertQuery = new StringBuilder();
     private static final SimpleDateFormat birthDayFormat = new SimpleDateFormat("yyyy.MM.dd");
 
